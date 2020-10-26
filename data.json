@@ -1,0 +1,114 @@
+{
+    "hdfc bank": {
+        "Company_Name": "HDFC Bank",
+        "Current_Stock": "Current Price : \u20b91057",
+        "Highest_Stock": "Highest  Price : \u20b91304",
+        "Change": "Change : -2.39%",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/hdfcbank/HDF01",
+        "image_url": "https://dc-cdn.s3-ap-southeast-1.amazonaws.com/dc-Cover-9iqgefts0481k7f57986e7ab20-20160627012717.Medi.jpeg"
+    },
+    "axis bank": {
+        "Company_Name": "Axis Bank",
+        "Current_Stock": "Current Price : \u20b9443",
+        "Highest_Stock": "Highest  Price : \u20b9765",
+        "Change": "Change : +0.10%",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/axisbank/AB16",
+        "image_url": "https://www.searchpng.com/wp-content/uploads/2019/01/Axis-Bank-PNG-Logo-.png"
+    },
+    "kotak mahindra bank": {
+        "Company_Name": "Kotak Mahindra Bank",
+        "Current_Stock": "Current Price : \u20b91278",
+        "Highest_Stock": "Highest  Price : \u20b91739",
+        "Change": "Change : -2.07%",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/kotakmahindrabank/KMB",
+        "image_url": "https://www.kotak.com/content/dam/Kotak/kotak-bank-logo.jpg"
+    },
+    "raymond": {
+        "Company_Name": "Raymond",
+        "Current_Stock": "Current Price : \u20b9282",
+        "Highest_Stock": "Highest  Price : \u20b9838",
+        "Change": "Change : -0.48%",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/textiles-woollenworsted/raymond/R",
+        "image_url": "https://cdn.freelogovectors.net/wp-content/uploads/2019/10/raymond-logo.png"
+    },
+    "adani power": {
+        "Company_Name": "Adani Power",
+        "Current_Stock": "Current Price : \u20b937",
+        "Highest_Stock": "Highest  Price : \u20b973",
+        "Change": "Change : +1.08%",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/power-generationdistribution/adanipower/AP11",
+        "image_url": "https://i.vimeocdn.com/video/255973172.webp?mw=1400&mh=787&q=70"
+    },
+    "infosys": {
+        "Company_Name": "Infosys",
+        "Current_Stock": "Current Price : \u20b91002",
+        "Highest_Stock": "Highest  Price : \u20b91020",
+        "Change": "Change : -0.80%",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/computers-software/infosys/IT",
+        "image_url": "https://professionallyspeaking.net/wp-content/uploads/2017/04/infosys-logo-1.jpg"
+    },
+    "hindustan unilever": {
+        "Company_Name": "Hindustan Unilever",
+        "Current_Stock": "Current Price : \u20b92098",
+        "Highest_Stock": "Highest  Price : \u20b92614",
+        "Change": "Change : -1.39%",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/personal-care/hindustanunilever/HU",
+        "image_url": "https://www.hul.co.in/Images/hul-hindustan-u-limited-990x557_tcm1255-551759_w700.jpg"
+    },
+    "bajaj finance": {
+        "Company_Name": "Bajaj Finance",
+        "Current_Stock": "Current Price : \u20b93475",
+        "Highest_Stock": "Highest  Price : \u20b94923",
+        "Change": "Change : +0.16%",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/finance-leasinghire-purchase/bajajfinance/BAF",
+        "image_url": "https://images.financialexpress.com/2019/09/bajaj-finserv.jpg?w=1200&h=800&imflag=true"
+    },
+    "tata consultancy services": {
+        "Company_Name": "Tata Consultancy Services",
+        "Current_Stock": "Current Price : \u20b92450",
+        "Highest_Stock": "Highest  Price : \u20b92538",
+        "Change": "Change : -0.38%",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/computers-software/tataconsultancyservices/TCS",
+        "image_url": "https://allvectorlogo.com/img/2017/02/tata-consultancy-services-tcs-logo.png"
+    },
+    "bharat petroleum corporation": {
+        "Company_Name": "Bharat Petroleum Corporation",
+        "Current_Stock": "Current Price : \u20b9412",
+        "Highest_Stock": "Highest  Price : \u20b9549",
+        "Change": "Change : -0.82%",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/refineries/bharatpetroleumcorporation/BPC",
+        "image_url": "https://cdn.telanganatoday.com/wp-content/uploads/2020/06/BPCL.jpg"
+    },
+    "indian oil corporation": {
+        "Company_Name": "Indian Oil Corporation",
+        "Current_Stock": "Current Price : \u20b980",
+        "Highest_Stock": "Highest  Price : \u20b9156",
+        "Change": "Change : -1.41%",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/refineries/indianoilcorporation/IOC",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzIdv7ad0jclqbDnO79YAILP38Vs3k16Cx5g&usqp=CAU"
+    },
+    "future retail": {
+        "Company_Name": "Future Retail",
+        "Current_Stock": "Current Price : \u20b9100",
+        "Highest_Stock": "Highest  Price : \u20b9415",
+        "Change": "Change : +0.45%",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/retail/futureretail/FR",
+        "image_url": "https://img.etimg.com/thumb/msid-77056110,width-1200,height-900,imgsize-88949,overlay-economictimes/photo.jpg"
+    },
+    "vip industries": {
+        "Company_Name": "VIP Industries",
+        "Current_Stock": "Current Price : \u20b9327",
+        "Highest_Stock": "Highest  Price : \u20b9519",
+        "Change": "Change : +3.23%",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/plastics/vipindustries/VIP",
+        "image_url": "https://seeklogo.com/images/V/vip-logo-684049CC20-seeklogo.com.png"
+    },
+    "indiabulls housing finance": {
+        "Company_Name": "Indiabulls Housing Finance",
+        "Current_Stock": "Current Price : \u20b9178",
+        "Highest_Stock": "Highest  Price : \u20b9456",
+        "Change": "Change : -1.71%",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/finance-housing/indiabullshousingfinance/IHF01",
+        "image_url": "https://www.forbesindia.com/media/image_uploads/SM_Indiabulls_housing_finance.jpg"
+    }
+}
