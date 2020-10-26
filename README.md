@@ -1,5 +1,8 @@
 # ShareMarket-Crypto-Currency-Bot-
 Messenger Quick Replies with Wit.ai Integration 
+
+![AddAudioToVideo1600666759393-001 (1)-min](https://user-images.githubusercontent.com/63660013/97191281-bb6a3880-17cc-11eb-95a1-d27f7cc82456.gif)
+
 # ShareMarket & CryptoCurrency Bot
 >## **Messenger Quick Replies & Wit.ai Integration**
 >This is Written Tutorial on how you can create the same chatbot with perfect explaination
